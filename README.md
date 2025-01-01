@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an easy way to find colors that you might need in painting, and game development.
+This is an fun and unique color palette that let's you choose from 216 shades of 6 colors (one color on each face of the cube).
 
 ## How To Use It
 
